@@ -1,4 +1,4 @@
-# Master Data Management System (MDM)
+# 💾 Master Data Management System (MDM)
 
 A simple Laravel-based Master Data Management System using Blade, MySQL, and Bootstrap/Tailwind. This application supports user authentication and CRUD operations for brands, categories, and items.
 
@@ -16,8 +16,18 @@ Build a Laravel application that:
 
 ---
 
+## 🔧 Technologies Used
+ - Laravel 10 +
+ - PHP 8 + 
+ - MySQL
+ - Blade Templating Engine
+ - Composer
+ - Artisan CLI
+
+---
+
 ## 🧩 Database Design
-# Tables:
+### Tables:
 
  - Users: id, name, email, password, is_admin, created_at, updated_at
  - Master Brands: id, code, name, status, created_at, updated_at
@@ -28,19 +38,19 @@ Build a Laravel application that:
 
 ## ✨ Features
 ✅ Master Data Management
-# Brands
+### 🛠️ Brands
  - Create new brand with code, name 
  - List brands with pagination 
  - Edit brand details
  - Delete brand with confirmation modal
 
-# Categories
+### 🛠️ Categories
  - Create new category with code, name 
  - List categories with pagination
  - Edit category details
  - Delete category with confirmation modal
 
-# Items
+### 🛠️ Items
  - Create new item with code, name, brand, category, file upload (default status: Active)
  - List items with pagination
  - Edit item (code, name, category, brand, attachment)
@@ -49,7 +59,7 @@ Build a Laravel application that:
 ## 🔐 Role-Based Access Control (RBAC)
  - Users can only access their own data
  - Admins can view and manage all records
- - 
+   
 ## ✅ Validation
  - Input validation for all forms
  - Display error messages for invalid inputs
@@ -57,3 +67,5 @@ Build a Laravel application that:
 ---
 
 ## 🖼️ Screenshots
+![Beige Brown Elegant Photo Collage Summer Desktop Wallpaper](https://github.com/user-attachments/assets/b6d84516-eead-4c17-b4cd-697297af2a31)
+
