@@ -23,6 +23,13 @@ Build a Laravel application that:
  - Blade Templating Engine
  - Composer
  - Artisan CLI
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="50" style="border-radius:10px; padding:5px; margin:5px; background:#f4f4f4"/>
+</p>
+
 
 ---
 
